@@ -2,21 +2,19 @@ React To-Do List
 A simple to-do list web application built with React.
 
 Table of Contents
-Demo
+
 Features
 Getting Started
 Prerequisites
 Installation
 Usage
 Contributing
-License
-Demo
-Include a link to a live demo of your application if it's hosted online. If not, you can skip this section.
+
+
 
 Features
 Add new to-do items
 Remove existing to-do items
-List of to-do items with checkboxes
 Responsive design (works on various screen sizes)
 Getting Started
 These instructions will help you set up a copy of this project on your local machine for development and testing purposes.
@@ -28,7 +26,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/react-todo-list.git
+git clone https://github.com/coindustry/react-Todo-List.git
 Navigate to the project directory:
 
 bash
